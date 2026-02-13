@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_color">#0E1621</color>
+    <color name="search_color">#5ECCBB</color>
+    <color name="selected_background">#1A8AFF</color>
+    <color name="default_background">#3D3D3D</color>
+    <color name="fastlane_background">#0E1621</color>
+</resources>

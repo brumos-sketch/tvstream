@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Streaming</string>
+    <string name="browse_title">Canales</string>
+    <string name="related_movies">Relacionados</string>
+    <string name="favorites">Favoritos</string>
+    <string name="add_channel">Añadir canal</string>
+    <string name="load_m3u">Cargar M3U</string>
+</resources>
